@@ -1,0 +1,9 @@
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\bin\Debug\Dapper.dll
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\bin\Debug\Dapper.xml
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\obj\Debug\TrackerL.D25FE930.Up2Date
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\Visual studio Project\Desktop app Project\TorunamentManagmentApplicaton\TrackerLibrary\obj\Debug\TrackerLibrary.pdb

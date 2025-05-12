@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B7F5C9-3A81-4EC6-8D34-905FD335623B}|..\\TrackerLibrary\\TrackerLibrary.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B7F5C9-3A81-4EC6-8D34-905FD335623B}|..\\TrackerLibrary\\TrackerLibrary.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerlibrary\\dataaccess\\textfileconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B7F5C9-3A81-4EC6-8D34-905FD335623B}|..\\TrackerLibrary\\TrackerLibrary.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerlibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B7F5C9-3A81-4EC6-8D34-905FD335623B}|..\\TrackerLibrary\\TrackerLibrary.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerlibrary\\models\\matchupentrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerui\\forms\\tournamentdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|solutionrelative:forms\\tournamentdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B7F5C9-3A81-4EC6-8D34-905FD335623B}|..\\TrackerLibrary\\TrackerLibrary.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|d:\\visual studio project\\desktop app project\\torunamentmanagmentapplicaton\\trackerui\\forms\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|solutionrelative:forms\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\forms\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0974F7E2-7070-4131-8412-5DEB6719B876}|TrackerUI.csproj|solutionrelative:forms\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TournamentDashboardForm.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Forms\\TournamentDashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TournamentDashboardForm.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Forms\\TournamentDashboardForm.cs",
+              "RelativeToolTip": "Forms\\TournamentDashboardForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA1wBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:11:33.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchUpEntryModel.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\Models\\MatchUpEntryModel.cs",
+              "RelativeDocumentMoniker": "..\\TrackerLibrary\\Models\\MatchUpEntryModel.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\Models\\MatchUpEntryModel.cs",
+              "RelativeToolTip": "..\\TrackerLibrary\\Models\\MatchUpEntryModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:43:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFileConnector.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\TextFileConnector.cs",
+              "RelativeDocumentMoniker": "..\\TrackerLibrary\\DataAccess\\TextFileConnector.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\TextFileConnector.cs",
+              "RelativeToolTip": "..\\TrackerLibrary\\DataAccess\\TextFileConnector.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:16:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextConnectorProcessor.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeDocumentMoniker": "..\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeToolTip": "..\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAkwN4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:16:44.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlConnector.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
+              "RelativeDocumentMoniker": "..\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
+              "RelativeToolTip": "..\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAMwF4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:16:39.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataConnection.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeDocumentMoniker": "..\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeToolTip": "..\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:15:50.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:41:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TournamentViewerForm.cs",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Forms\\TournamentViewerForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TournamentViewerForm.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Forms\\TournamentViewerForm.cs",
+              "RelativeToolTip": "Forms\\TournamentViewerForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA4wBcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:05:50.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TournamentViewerForm.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Forms\\TournamentViewerForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TournamentViewerForm.cs",
+              "ToolTip": "D:\\Visual studio Project\\Desktop app Project\\TorunamentManagmentApplicaton\\TrackerUI\\Forms\\TournamentViewerForm.cs [Design]",
+              "RelativeToolTip": "Forms\\TournamentViewerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:05:43.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
